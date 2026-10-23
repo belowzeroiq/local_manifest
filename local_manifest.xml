@@ -58,7 +58,7 @@
 <project name="android_device_qcom_sepolicy_vndr_sm6225" path="device/qcom/sepolicy_vndr/sm6225" remote="tnf" revision="lineage-24.0" />
 
 <!-- HALS -->
-<project path="hardware/qcom-caf/sm6225" name="hardware_qcom-caf_sm6225" remote="tnf" revision="17" />
+<project path="hardware/qcom-caf/sm6225" name="hardware_qcom-caf_sm6225" remote="grim" revision="17" />
 
 <!-- Dolby & MiCam -->
 <project path="hardware/dolby" name="android_hardware_dolby" remote="tnf" revision="lunaris" />
